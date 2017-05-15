@@ -1,0 +1,26 @@
+{
+  "name": "the-complete-react-course",
+  "version": "1.0.0",
+  "description": "learning react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vthang95/learning-react.git"
+  },
+  "author": "vthang95",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vthang95/learning-react/issues"
+  },
+  "homepage": "https://github.com/vthang95/learning-react#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.4",
+    "redux": "^3.6.0"
+  }
+}
